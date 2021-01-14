@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+}
+
+/* logo */
+.logo-responsive{
+  max-height: 60px;
+  max-width: 90%; 
+  overflow: visible;
+  padding-top: 0;
+  padding-bottom: 0; 
+}
+.banner{
+  background-color: #FFF9F4;
+  height: 630px;
+  margin-bottom: 50px;
+}
+
+/* Banner */
+h1, h2, span{
+font-family: 'Bebas Neue', cursive;
+font-size: 5rem;
+font-style: normal;
+color: #363958;
+}
+.orange-color{
+  color: #FA804C;
+}
+.button {
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 10px;
+  padding: 15px 5px;
+  background-color: #3D4FF3;
+}
+#button{
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 10px;
+  margin-left: 100px;
+  padding: 0px 0px 0px 0px;
+  background-color: #3D4FF3;  
+}
+#button img{
+ width: 15%;
+ background-color:#3D4FF3;
+ margin-left: -5px;
+}
+
+/* Shoe */
+.card{
+  border-radius: 20px;
+  
+}
+.casual img{
+  background-color: rgb(230, 230, 227);
+}
+.casual img, .formal img{
+  margin: 15px;
+  
+  border-radius: 20px;
+  width: 90%;
+}
+h5{
+color: #363958;
+font-size: 25px;
+font-weight: 700;
+}
+h2{
+  font-weight: 700;
+  font-size: 35px;
+}
+.c-footer{
+  background-color: white;
+}
+
+/* About */
+.about{
+  border-radius: 20px;
+}
+.about img{
+  height: 0%;
+width: 20%;
+}
+
+/* footer */
+
+.footer ul li{
+list-style: none;
+margin-left: -30px;
+
+}
+.footer a i{
+   color: rgb(58, 55, 55);
+}
+.fab{
+  margin-left: 10px;
+}
+.footer .link ul li{
+  list-style-type: disc;
+  margin-left: -15px;
+}
+.footer .link ul li a{
+  text-decoration: none;
+  color: rgb(58, 55, 55);
+}
+.footer .link ul li a:hover{
+  color: #FA804C;
+}
+
